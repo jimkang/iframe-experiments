@@ -8,7 +8,7 @@ Usage
 
     make run    
 
-You can also [see it running here](http://harvard-dce.github.io/iframe-experiments).
+You can also [see it running here](http://jimkang.com/iframe-experiments).
 
 [The postMessage tests are here.](https://jsbin.com/qoxogivise/edit?html,output)
 
